@@ -1,0 +1,19 @@
+{
+  "name": "todo-item-list-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo-list.js",
+  "type": "module",
+  "bin": "todo-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fazilat Jahan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
